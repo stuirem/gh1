@@ -2,12 +2,6 @@
 
 +line 1
 
++line 2
 
-master 1
-+line b1
-
-+line2 (from local conflict)
-
-
-+line-GH
-(from remote conflict)
++line3
